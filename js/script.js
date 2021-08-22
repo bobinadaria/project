@@ -17,9 +17,11 @@ console.log(5%2);
 console.log(2*4=='8');
 console.log(2*4===8);
 
-console.log(2 !== '2');
+console.log(2 === '2');
 
 const isChecked = true,
     isClose = false;
 
    console.log(isChecked && !isClose); 
+
+   console.log('New commit test');
