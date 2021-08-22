@@ -25,3 +25,5 @@ const isChecked = true,
    console.log(isChecked && !isClose); 
 
    console.log('New commit test');
+
+console.log('Dasha')
